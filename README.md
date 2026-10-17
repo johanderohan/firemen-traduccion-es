@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/the-firemen)**.
+
 Traducción al **español de España** de *The Firemen* (Super Nintendo, 1994),
 el juego de acción de Human Entertainment en el que Pete y Danny entran en el
 edificio en llamas de la química Metrotech en plena Nochebuena. Se ha traducido
