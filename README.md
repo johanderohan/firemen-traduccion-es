@@ -14,13 +14,13 @@ copia para aplicarlo.
 
 ## Estado
 
-Última versión: **[v1.0 — Primera publicación](../../releases/tag/v1.0)**.
+Última versión: **[v1.1 — Pantallas finales en castellano](../../releases/tag/v1.1)**.
 
 | Parte | Estado |
 |---|---|
 | Mensajes de radio (toda la historia, incluido el final) | **279 de 279** traducidos y revisados |
 | Subtítulos de la introducción | **23 de 23** |
-| Menú CONFIG y aviso de mando mal conectado | Redibujados en castellano con el estilo original |
+| Menú CONFIG, aviso de mando mal conectado y pantallas finales | Redibujados en castellano con el estilo original |
 | Caracteres españoles | **á é í ó ú ü ñ Á É Í Ó Ú Ü Ñ ¡ ¿ « » …** |
 | Logotipo y textos en inglés del original | Se conservan (ver abajo) |
 | Revisión durante una partida | Comienzo jugado y los 279 mensajes vistos en el juego (ver abajo) |
@@ -88,12 +88,18 @@ PAUSE, TIME, LIFE, CONTINUE, NORMAL, STEREO, EXIT y los letreros del edificio.
    europea en inglés no sirve.
 3. Aplica el parche con una de estas herramientas:
    - **Windows**: [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-   - **Linux / macOS**: `xdelta3 -d -s "Firemen, The (Japan).sfc" firemen-snes-es-v1.0.xdelta "The Firemen (ES).sfc"`
+   - **Linux / macOS**: `xdelta3 -d -s "Firemen, The (Japan).sfc" firemen-snes-es-v1.1.xdelta "The Firemen (ES).sfc"`
 4. Comprueba que la ROM resultante mide **2.097.152 bytes** (2 MB) y tiene MD5
-   **`046514e9007f6d9a2fc9e6717f57fb57`**.
+   **`3498b1ed99625cf34002f6dddbbf2c84`**.
 5. Juega en tu emulador o flashcart (el juego no guarda partidas).
 
 ## Cambios por versión
+
+### v1.1 — 18 de octubre de 2026
+
+- Las pantallas que salen al acabar el juego, ahora en castellano: «AHORA PRUEBA EL MODO
+  NORMAL/EXPERTO», el texto en japonés que explica el código del modo experto y el rango
+  final («LUCHADOR LEGENDARIO»). Gracias a Medina por avisar.
 
 ### v1.0 — 17 de octubre de 2026
 
